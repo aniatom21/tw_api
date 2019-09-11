@@ -1,5 +1,5 @@
 <?php
-$api_key='6f3c2162-5efd-4f62-a6df-803fdaa63d79';
+$api_key='your spi key';
 $res_id='f2e5503e927d-4ad3-9500-4ab9e55deb59';
 $line_type='2';
 
